@@ -17,5 +17,5 @@ Examples are verified with XUnit and NSubstitute.
 
 Please use [ReSharper](https://www.jetbrains.com/resharper/) or the xunit.console.exe runner in the .\packages\xunit.runner.console.2.2.0\tools\ folder to execute unit tests.
 
-Thanks,
+Thanks,  
 Rafał Bielec
